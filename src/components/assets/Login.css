@@ -122,19 +122,19 @@
 
 .label-remember-me {
   display: inline-block;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .forgot-password {
   float: right;
-  font-size: 12px;
+  font-size: 14px;
   text-decoration: none;
   color: lightskyblue;
 }
 
 .sign-up {
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
   text-decoration: none;
   margin-top: 15px;
 }

@@ -1,0 +1,32 @@
+.form-signup {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100vh;
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.sign-up-tnc {
+  text-align: center;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.input-email-login {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+  background-image: url('./images/email.png');
+  background-size: 30px 30px;
+  background-position: 6px center; 
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}

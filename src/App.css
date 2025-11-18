@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-image: url('C:\Users\clara\Projects\login-page\src\backgroung-login.jpg');
+  background-image: url('../src/backgroung-login.jpg');
   height: 100vh;
 }
 
@@ -78,7 +78,7 @@
   border: 1px solid #ccc;
   border-radius: 3px;
   box-sizing: border-box;
-  background-image: url(C:\Users\clara\Projects\login-page\src\user.png);
+  background-image: url('../src/user.png');
   background-size: 20px 20px;
   background-position: 10px center; 
   background-repeat: no-repeat;
@@ -92,7 +92,7 @@
   border: 1px solid #ccc;
   border-radius: 3px;
   box-sizing: border-box;
-  background-image: url(C:\Users\clara\Projects\login-page\src\password.png);
+  background-image: url('../src/password.png');
   background-size: 15px 20px;
   background-position: 10px center; 
   background-repeat: no-repeat;
